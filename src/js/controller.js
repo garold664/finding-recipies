@@ -120,5 +120,7 @@ const init = function () {
 init();
 
 const newFeature = () => {
-  console.log('new feature');
+  console.log('Welcome!');
 };
+
+newFeature();
