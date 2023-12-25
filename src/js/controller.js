@@ -1859,6 +1859,10 @@ const init = function () {
 
 init();
 
+const newFeature = () => {
+  console.log('new feature');
+};
+
 //! 00:50 View.js
 
 //! 07:55 POSSIBLE IMPROVEMENTS
